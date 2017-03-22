@@ -24,7 +24,7 @@ This is a repository to practice using Git and GitHub.
   * R. Ganesh kumar
   * M. Ganesh kumar  
   * Mani
-  * Infanty Rajan
+  * Infanty Rajan - Web & Mobility
   * Syed Mohamad Yusuf
   * Gnana Sekar
   * Sriram
